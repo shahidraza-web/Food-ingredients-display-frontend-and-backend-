@@ -1,6 +1,5 @@
 # Food-ingredients-display-frontend-and-backend-
 🌮 Taco Town – Interactive Taco Recipe App
-
 Taco Town is a fun and interactive Node.js + Express web app that lets users explore different taco recipes by simply clicking their favorite ingredient type — chicken, beef, or fish. Each selection dynamically loads the corresponding recipe with detailed ingredients, preparation styles, and toppings, rendered beautifully using EJS templates.
 
 
