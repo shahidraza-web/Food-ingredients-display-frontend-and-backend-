@@ -19,3 +19,8 @@ Backend: Node.js, Express
 
 Data Handling: JSON-based recipe data
 FILE EXECUTION LINK : https://drive.google.com/drive/folders/1q3tCjNJGWbhXC5_pI2vNoiFkrVvgcrEd?usp=sharing
+
+EXECUTION STEPS:
+open the terminal change the directory to this project's directory using cd 'directory-name'
+Install all the required frameworks , middlewares and libraries using npm i command in the terminaL
+and then type node index.js to open the project and see its working
